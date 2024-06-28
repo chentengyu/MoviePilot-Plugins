@@ -1,0 +1,11 @@
+{
+  "plextools": {
+    "name": "PLEX 工具箱",
+    "description": "在特定事件发生时为种子添加特定 tags",
+    "version": "1.0",
+    "icon": "plextools.jpg",
+    "color": "#C9221B",
+    "author": "chentengyu",
+    "level": 1
+  }
+}
